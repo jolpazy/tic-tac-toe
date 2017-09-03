@@ -1,0 +1,40 @@
+body {
+  background-color: #9dbae8;
+}
+.playground {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.promt {
+  width: 300px;
+  height: 120px;
+  margin: 0 auto;
+  background-color: "white";
+}
+button {
+  background-color: white;
+  border: solid 1px #000000;
+  color: gray;
+  width: 30%;
+  height: 80px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 33px;
+  float: left;
+}
+button:hover {
+  background-color: #bababa;
+  border: solid 1px "black";
+}
+.choice {
+  margin: 10px
+}
+
+p {
+  text-align: center;
+}
+
+
+
